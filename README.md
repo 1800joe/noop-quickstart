@@ -150,3 +150,5 @@ Once your application is running, you can access the logs for each component by 
 ## Go forth, dear nooper, and build!
 
 At this point, you're ready to do some exploring on your own. Please take some time to try to build and deploy an application that you actually care about. If you run into any issues, or have any questions or concerns, please reach out to us on the Slack channel. If you want to learn more about the features that noop offers, please check out [the noop wiki](http://this-doesnt-work-yet.edu).
+
+
